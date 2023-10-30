@@ -1,0 +1,48 @@
+#title{
+    margin: auto;
+    color: red;
+    font-size:45px;
+}
+
+#title{
+    text-shadow: 4px 1px 4px;
+}
+fieldset{
+    width: 300px;
+    border-radius:15px;
+    border:none;
+}
+
+#x{
+   margin: auto;
+   border: none;
+}
+
+body{
+    background-color:rgb(94, 138, 177);
+}
+
+.ha{
+    color: rgb(123, 0, 0);
+    padding-top: 50px;
+}
+
+#s{
+    color:rgb(6, 188, 61);
+    background-color:gold;
+    margin-left: 130px;
+}
+
+#r{
+    color: red;
+    background-color: gold;
+    margin-left:26px;
+}
+
+#r , #s , #h , #j{
+    border-radius:20px;
+}
+
+.ba{
+    background-color:green;
+}
